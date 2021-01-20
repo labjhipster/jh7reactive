@@ -45,6 +45,8 @@
     "prodDatabaseType": "mongodb",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "es"]
+    "languages": ["en", "es"],
+    "entities": ["Blog", "Post", "Tag"],
+    "lastLiquibaseTimestamp": 1611139746000
   }
 }
