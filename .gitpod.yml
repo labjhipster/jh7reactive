@@ -3,3 +3,7 @@ image:
 
 tasks:
   - init: mvnw
+
+vscode:
+  extensions:
+    - pivotal.vscode-boot-dev-pack@0.0.8:KGahbNlLCY19QUebUzdLbA==
